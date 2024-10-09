@@ -1,0 +1,5 @@
+vpc_id        = "vpc-0e692d0f2a9a196d7"
+instance_type = "t2.large"
+ami           = "ami-078264b8ba71bc45e"
+key_pair      = "netflix"
+subnet_id     = "subnet-097957cf5c3fd998f"
